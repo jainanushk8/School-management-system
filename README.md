@@ -117,12 +117,4 @@ python complete_ml_suite.py # Run all 4 ML models
 python fix_database.py # Setup/reset database
 
 
-## 📞 Contact
-
-**Project Author**: [Your Name]  
-**Email**: [Your Email]  
-**LinkedIn**: [Your LinkedIn]  
-
----
-
 **This project demonstrates advanced skills in database design, ETL automation, machine learning, and business intelligence - perfect for technical interviews and portfolio showcasing.**
